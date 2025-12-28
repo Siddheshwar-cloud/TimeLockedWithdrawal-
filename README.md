@@ -492,7 +492,7 @@ If you found this project helpful or interesting, please consider giving it a st
 
 <div align="center">
   
-[![GitHub Star](https://img.shields.io/github/stars/Siddheshwar-cloud/timelock-withdrawal?style=social)](https://github.com/Siddheshwar-cloud/timelock-withdrawal)
+[![GitHub Star](https://img.shields.io/github/stars/Siddheshwar-cloud/timelock-withdrawal?style=social)](https://github.com/Siddheshwar-cloud/TimeLockedWithdrawal-)
 
 **Your star motivates me to create more open-source projects!**
 
