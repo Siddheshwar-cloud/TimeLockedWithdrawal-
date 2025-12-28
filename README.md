@@ -474,7 +474,7 @@ Ensures funds are preserved until maturity
 
 **Sidheshwar Yengudle**
 
-Blockchain Developer | Smart Contract Engineer
+solidity | Smart Contract Developer
 
 <div align="center">
 
